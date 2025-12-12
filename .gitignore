@@ -1,0 +1,16 @@
+# Секреты
+*.tfvars
+terraform.tfvars
+terraform.auto.tfvars
+
+# Файлы состояния
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# План применения
+*.tfplan
+terraform.tfplan
+
+# Локальный файлы
+.terraform.rc
