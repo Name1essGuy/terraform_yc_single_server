@@ -4,6 +4,7 @@ terraform.tfvars
 terraform.auto.tfvars
 
 # Файлы состояния
+*.tfstate
 *.tfstate.*
 .terraform/
 .terraform.lock.hcl
