@@ -55,6 +55,7 @@ terraform apply
 
 ### Структура проекта
 
+```
 .
 ├── main.tf              # Основная конфигурация
 ├── variables.tf         # Объявления переменных
@@ -62,6 +63,7 @@ terraform apply
 ├── terraform.tfvars     # Значения переменных (.gitignore)
 ├── .gitignore           # Игнорируемые файлы
 └── README.md            # Эта документация
+```
 
 ### Переменные
 
